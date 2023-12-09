@@ -1,0 +1,19 @@
+{
+    "__comment": "This is required for SSR to quickly understand what pages exist.",
+    "pages": [
+        {
+            "kind": "static-page",
+            "componentName": "/Home",
+            "title": "home",
+            "path": "/home",
+            "meta": {}
+        },
+        {
+            "kind": "static-page",
+            "componentName": "/Layout",
+            "title": "Layout",
+            "path": "/layout",
+            "meta": {}
+        }
+    ]
+}
